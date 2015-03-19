@@ -1,4 +1,3 @@
-<!DOCTYPE html> 
 <html> 
 
 <head>
@@ -30,7 +29,7 @@
    <li><p><a href="http://www.kijiji.ca/v-view-details.html?adId=580956505"> French Tutor/French Private Teacher</a></p></li>
 
 <p><a>Find us on Facebook:</a></p>
-   <!-- Facebook Badge START --><a href="https://www.facebook.com/stina.g.jouband" title="" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP"></a><br /><a href="https://www.facebook.com/stina.g.jouband" target="_TOP"><img class="img" src="https://badge.facebook.com/badge/728854777196696.1895.921444587.png" style="border: 0px;" alt="" /></a><br /><a href="https://fr-fr.facebook.com/advertising" title="Cr&#xe9;ez votre propre badge&#xa0;!" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP"></a><!-- Facebook Badge END -->
+<a href="https://www.facebook.com/stina.g.jouband" title="" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP"></a><br /><a href="https://www.facebook.com/stina.g.jouband" target="_TOP"><img class="img" src="https://badge.facebook.com/badge/728854777196696.1895.921444587.png" style="border: 0px;" alt="" /></a><br /><a href="https://fr-fr.facebook.com/advertising" title="Cr&#xe9;ez votre propre badge&#xa0;!" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP"></a>
 
 <h3>The Beauty of France:</h3>
 <script>
