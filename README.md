@@ -1,14 +1,11 @@
 <html> 
-
 <head>
-  <title>Private French Classes in Saskatoon</title>
+<title>Private French Classes in Saskatoon</title>
   <meta name="description" content="French private teacher/tutor in Saskatoon, for a fun and easy way to learn French!">
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-  
-  <h1>Private French Classes in Saskatoon</h1>
   
   <nav>
    <a href="file:///C:/Users/Famille/Desktop/DemoWeb/Main%20Page.html">Home</a>
